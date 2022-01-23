@@ -6,7 +6,7 @@ I am a Frontend Engineer experienced in the art of building world-class products
 My focus area for the past few years has been with React, Vue, TypeScript, and technical content creation. 
 
 When i'm not building products or writing articles, i'm:
-* Working on my Data Engineering Leaning Path
+* Working on my Data Engineering Learning Path
 * Algo & DS
 * doing something fun 
 
