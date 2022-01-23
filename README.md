@@ -11,7 +11,7 @@ When i'm not building products or writing articles, i'm:
 * doing something fun 
 
 ### Useful Links 🌻
-- [Resume](bit.ly/Umoren)
+- [Resume](https://bit.ly/Umoren)
 - [GitHub](https://github.com/Umoren)
 - [Twitter](https://twitter.com/saameeey)
 - [LinkedIn](https://linkedin.com/in/umoren)
