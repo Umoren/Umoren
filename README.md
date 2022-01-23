@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **Umoren/Umoren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 I am a Frontend Engineer experienced in the art of building world-class products that meet and conform to industry standards, stand the test of time and deliver an excellent experience to the end-users ✨.
 
@@ -16,4 +15,4 @@ When i'm not building products or writing articles, i'm:
 - [GitHub](https://github.com/Umoren)
 - [Twitter](https://twitter.com/saameeey)
 - [LinkedIn](https://linkedin.com/in/umoren)
--->
+
