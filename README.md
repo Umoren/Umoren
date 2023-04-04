@@ -1,12 +1,12 @@
 ### Hi there 👋
 
 <!-- **Umoren/Umoren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-I am a Frontend Engineer experienced in the art of building world-class products that meet and conform to industry standards, stand the test of time and deliver an excellent experience to the end-users ✨.
+Results-driven Full Stack Engineer and Technical Writer with four years of combined experience in designing, devel- oping, and optimizing web applications and crafting technical articles. Proficient in JavaScript and its frameworks, with a strong focus on delivering high-quality user experiences. Adept at creating clear and concise tutorials, demos, and user guides to communicate complex technical concepts and processes effectively. ✨.
 
 My focus area for the past few years has been with React, Vue, TypeScript, and technical content creation. 
 
 When i'm not building products or writing articles, i'm:
-* Working on my Data Engineering Learning Path
+* Web ML
 * Algo & DS
 * doing something fun 
 
