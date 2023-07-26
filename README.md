@@ -1,17 +1,19 @@
 ### Hi there 👋
 
 <!-- **Umoren/Umoren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-Results-driven Full Stack Engineer and Technical Writer with four years of combined experience in designing, devel- oping, and optimizing web applications and crafting technical articles. Proficient in JavaScript and its frameworks, with a strong focus on delivering high-quality user experiences. Adept at creating clear and concise tutorials, demos, and user guides to communicate complex technical concepts and processes effectively. ✨.
+Front End Engineer with four years of experience and strong fundamentals in Front End technologies. Proficient in building scalable web infrastructure and optimizing website performance. Skilled in programming languages, compilers, and developer tooling. ✨.
 
-My focus area for the past few years has been with React, Vue, TypeScript, and technical content creation. 
+My focus area for the past few years has been React, Vue, TypeScript, DevOps, and technical content creation. 
 
-When i'm not building products or writing articles, i'm:
-* Web ML
-* Algo & DS
+When I'm not building products or writing articles, I'm:
+* DevOps
+* Interview Prepping
 * doing something fun 
 
 ### Useful Links 🌻
-- [Resume](https://linktr.ee/samuelumoren)
+- [Website](https://umoren.vercel.app)
+- [Blog](https://beyondcode.hashnode.dev)
+- [Resume](https://docs.google.com/document/d/137ZQlLzTkgx0IwvZ_oWWVOv9W0higk1OjKBV5jo4Kgk/edit?usp=sharing)
 - [GitHub](https://github.com/Umoren)
 - [Twitter](https://twitter.com/saameeey)
 - [LinkedIn](https://linkedin.com/in/umoren)
