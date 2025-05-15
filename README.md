@@ -16,7 +16,7 @@ When I'm not crafting documentation or contributing to open source, I'm:
 * Doing something fun
 
 **Useful Links 🌻**
-* [Website](umoren.vercel.app)
+* [Website](https://umoren.vercel.app)
 * [Blog](https://beyondcode.hashnode.dev)
 * [Resume](https://bit.ly/samueltechwriting)
 * [Twitter](https://x.com/saameeey)
